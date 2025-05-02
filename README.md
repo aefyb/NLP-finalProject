@@ -15,7 +15,7 @@ We aim to:
 The link to the dataset: https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
 
 ### Description
-The dataset contains 205,053 reviews on a variety of Flipkart products, including clothing, electronics, and home decor. The reviews were scraped from Flipkart's website in 2022
+The Kaggle dataset contains 205,053 reviews on a variety of Flipkart products, including clothing, electronics, and home decor. The reviews were scraped from Flipkart's website in 2022, and then labeled based on the sentiment of the review's summary.
 
 ### Features
 The features in our dataset are
