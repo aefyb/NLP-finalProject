@@ -49,6 +49,9 @@ Our code contains snippets used in _Topic Modeling with Gensim (Python)._
 
 The link to the website: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofindtheoptimalnumberoftopicsforlda
 
+
+For more information on our results, please refer to our paper `JACL - Final Report.pdf`.
+
 ## References
 Vaghani, N., & Thummar, M. (2023). _Flipkart Product reviews with sentiment Dataset [Data set]._ Kaggle. https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset
 
